@@ -1,1 +1,2 @@
 # Divide-and-Conquer-Algorithms-Implementation-and-case-studies
+This repository contains java code of divide and conquer algorithms. The topics and questions are taken from Data Structures and Algorithms Specialization offered by UNIVERSITY OF CALIFORNIA SAN DIEGO NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS. This repository is only for reference purpose and coursera is strict about honor code.
